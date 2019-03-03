@@ -1,5 +1,5 @@
 //A simple I/O demonstration
-//By Liviu Chile
+//By Liviu-Emilian, Chile
 //2019-03
 
 import java.io.BufferedReader;
